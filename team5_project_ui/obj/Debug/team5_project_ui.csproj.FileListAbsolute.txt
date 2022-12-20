@@ -1,0 +1,83 @@
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe.config
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.pdb
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.AssemblyReference.cache
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CoreCompileInputs.cache
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.pdb
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Form1.resources
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.GenerateResource.cache
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CopyComplete
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.main.resources
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.regiter_patient.resources
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.doctor.resources
+C:\Users\HANSUNG\Desktop\2022-2학기\데이터베이스 프로그래밍\데베프_팀플\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.information.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe.config
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.pdb
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\bin\Debug\Oracle.DataAccess.dll
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.AssemblyReference.cache
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Form1.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.main.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.regiter_patient.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.information.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.doctor.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.GenerateResource.cache
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CoreCompileInputs.cache
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CopyComplete
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.exe
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.pdb
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Treatment.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Form5.resources
+C:\hong\teamproject1\11.30일 UI 다시 만들기\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Form6.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe.config
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\bin\Debug\team5_project_ui.pdb
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.AssemblyReference.cache
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.regiter_patient.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.information.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Treatment.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.Form1.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.GenerateResource.cache
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CoreCompileInputs.cache
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.csproj.CopyComplete
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.pdb
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.medical_staff.resources
+C:\Users\HANSUNG\Desktop\12.14\team5_ui\team5_project_ui\obj\Debug\team5_project_ui.chart.resources
+C:\team5\team5_project_ui\bin\Debug\team5_project_ui.exe.config
+C:\team5\team5_project_ui\bin\Debug\team5_project_ui.exe
+C:\team5\team5_project_ui\bin\Debug\team5_project_ui.pdb
+C:\team5\team5_project_ui\bin\Debug\Oracle.DataAccess.dll
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.AssemblyReference.cache
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.regiter_patient.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.information.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.Treatment.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.medical_staff.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.chart.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.Form1.resources
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.GenerateResource.cache
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.CoreCompileInputs.cache
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.CopyComplete
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.exe
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.pdb
+C:\team5\team5_project_ui\obj\Debug\team5_project_ui.Properties.Resources.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\bin\Debug\team5_project_ui.exe.config
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\bin\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\bin\Debug\team5_project_ui.pdb
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\bin\Debug\Oracle.DataAccess.dll
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.AssemblyReference.cache
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.regiter_patient.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.information.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.Treatment.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.medical_staff.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.chart.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.Form1.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.Properties.Resources.resources
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.GenerateResource.cache
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.CoreCompileInputs.cache
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.csproj.CopyComplete
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.exe
+C:\Users\HANSUNG\Desktop\22-2_데베프\team5\team5_project_ui\obj\Debug\team5_project_ui.pdb
